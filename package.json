@@ -1,0 +1,11 @@
+{
+  "name": "txn-loader",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "author": "Austin Xie",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.238.1",
+    "csv": "^3.0.2"
+  }
+}
